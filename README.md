@@ -2,8 +2,7 @@
 - 🌟 Generative AI Enthusiast & Aspiring Computer Science Engineer
 - 📊 Data Science & Machine Learning Aspirant
 - 👀 Passionate about learning and exploring new technologies.
-- 🌱 Currently deepening my knowledge through a Data Science course.
-- 💞️ Looking to collaborate on Data Analytics and AI projects.
+- 💞️ Looking to collaborate on AI projects.
 - 📫 Reach me at @Manikanta1239 for discussions, collaborations, and opportunities!
 
 <!---
