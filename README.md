@@ -9,16 +9,6 @@
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Other Tools:** Git, GitHub, Linux, VS Code, Postman
 
-## 📊 GitHub Stats & Contributions
-
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikanta1239&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B)
-
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta1239&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
-
-
 ## 🌱 What I'm Currently Learning
 - 📌 Advanced Backend Architecture & System Design
 - 📌 AI/ML and Data Science
