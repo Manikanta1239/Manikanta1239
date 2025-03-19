@@ -54,8 +54,8 @@
 ## 📂 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Manikanta1239/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manikanta1239&repo=your-project-1&theme=github_dark" />
+  <a href="[AI-Powered_Cold_Email_Generator](https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator.git)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manikanta1239&repo=[AI-Powered_Cold_Email_Generator](https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator.git)&theme=github_dark" />
   </a>
   <a href="https://github.com/Manikanta1239/your-project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manikanta1239&repo=your-project-2&theme=github_dark" />
