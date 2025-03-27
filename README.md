@@ -19,7 +19,7 @@
 
 ---
 
-## 🎬 Professional Animated Developer Card  
+## 🎬 Animated Developer Card  
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manikanta1239&theme=github_dark" alt="GitHub Profile Summary" />
