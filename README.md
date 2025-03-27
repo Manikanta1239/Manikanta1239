@@ -19,10 +19,14 @@
 
 ---
 
-## 🎬 Cool Animations  
+## 🎬 Professional Animated Developer Card  
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/animat.gif" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manikanta1239&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manikanta1239&theme=darkhub&no-frame=true&column=4&margin-w=15" alt="Trophies" />
 </div>
 
 ---
@@ -71,6 +75,7 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta1239&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manikanta1239&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta1239&layout=compact&langs_count=7&theme=github_dark"/>  
 </div>  
