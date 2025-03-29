@@ -1,18 +1,18 @@
-<div align="center">
-
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm **Manikanta!**  
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Engineer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manikanta1239&color=blue&style=flat)
 
 <p align="center">
   🚀 <strong>Passionate software developer</strong> building robust, scalable solutions for real-world problems.
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Manikanta1239&color=blue&style=flat)
+
 ---
+</div>
+
 
 ## 👨‍💻 About Me  
 
@@ -104,6 +104,5 @@
 
 <div align="center">
   <em>✨ Let's connect and build something amazing together! 🚀✨</em>
-</div>
+</div>  
 
-</div>
