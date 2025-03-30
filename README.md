@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Engineer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 
-
 <p align="center">
   🚀 <strong>Passionate software developer</strong> building robust, scalable solutions for real-world problems.
 </p>
@@ -12,7 +11,6 @@
 
 ---
 </div>
-
 
 ## 👨‍💻 About Me  
 
@@ -34,64 +32,54 @@
 </div>
 
 ---
-## 🛠️ Tech Stack
 
-### 🚀 **Languages**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-### 💻 **Backend**
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-</div>
-
-### 🌐 **Frontend**
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-### 🛢️ **Databases**
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-### 🔧 **Tools & Platforms**
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
----
-
-## 📂 Featured Projects  
+## 📊 Enhanced GitHub Stats  
 
 <div align="center">
-  <a href="https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manikanta1239&repo=AI-Powered_Cold_Email_Generator&theme=github_dark" />
-  </a>
-</div>
-
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta1239&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manikanta1239&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta1239&layout=compact&langs_count=7&theme=github_dark"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikanta1239&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manikanta1239&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta1239&layout=compact&langs_count=7&theme=github_dark"/>    
 </div>  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Manikanta1239&theme=github-dark" alt="Activity Graph" />
+</div>
+
+---
+
+## 📚 Blog Posts  
+- [Post Title 1](#)  
+- [Post Title 2](#)  
+- [Post Title 3](#)  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🚀 **Languages**  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+</div>
+
+### 💻 **Backend**  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</div>
+
+### 🌐 **Frontend**  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</div>
+
+### 🛢️ **Databases**  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</div>
+
+### 🔧 **Tools & Platforms**  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</div>
 
 ---
 
