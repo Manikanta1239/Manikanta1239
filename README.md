@@ -48,9 +48,33 @@
 
 ## 📚 Blog Posts  
 
-- [Post Title 1](#)  
-- [Post Title 2](#)  
-- [Post Title 3](#)  
+<div align="center">
+
+  <a href="https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator">
+    <img src="https://img.shields.io/badge/🚀%20Building%20an%20AI--Powered%20Cold%20Email%20Generator-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="AI-Powered Cold Email Generator"/>
+  </a>  
+  <br/>
+
+  <a href="https://github.com/Manikanta1239/Password-Manager">
+    <img src="https://img.shields.io/badge/🔐%20Developing%20a%20Secure%20and%20Efficient%20Password%20Manager-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Password Manager"/>
+  </a>  
+  <br/>
+
+  <a href="https://github.com/Manikanta1239/Chat-Application">
+    <img src="https://img.shields.io/badge/💬%20Implementing%20Real--Time%20Chat%20Applications%20with%20Node.js-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Chat Application"/>
+  </a>  
+  <br/>
+
+  <a href="https://github.com/Manikanta1239/Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20Creating%20a%20Personal%20Portfolio%20Website%20with%20React-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>  
+  <br/>
+
+  <a href="https://github.com/Manikanta1239/Web-Scraping">
+    <img src="https://img.shields.io/badge/🤖%20Automating%20Tasks%20with%20Python%3A%20Web%20Scraping-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Web Scraping"/>
+  </a>  
+
+</div>
 
 ---
 
@@ -86,7 +110,7 @@
 ## 📫 Connect With Me  
 
 <p align="center">   
-  <a href="https://www.linkedin.com/in/mani-kanta-092202268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/</a>
+  <a href="https://www.linkedin.com/in/mani-kanta-092202268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/smanikanta1239" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>  
   <a href="mailto:smanikanta1239@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>   
 </p>    
