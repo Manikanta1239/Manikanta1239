@@ -45,35 +45,14 @@
 </div>
 
 ---
-
 ## 📚 Blog Posts  
 
 <div align="center">
 
-  <a href="https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator">
-    <img src="https://img.shields.io/badge/🚀%20Building%20an%20AI--Powered%20Cold%20Email%20Generator-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="AI-Powered Cold Email Generator"/>
-  </a>  
+  <a href="https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=FF5733&width=800&lines=🚀+Building+an+AI-Powered+Cold+Email+Generator" alt="AI-Powered Cold Email Generator"/></a>
   <br/>
 
-  <a href="https://github.com/Manikanta1239/Password-Manager">
-    <img src="https://img.shields.io/badge/🔐%20Developing%20a%20Secure%20and%20Efficient%20Password%20Manager-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Password Manager"/>
-  </a>  
-  <br/>
-
-  <a href="https://github.com/Manikanta1239/Chat-Application">
-    <img src="https://img.shields.io/badge/💬%20Implementing%20Real--Time%20Chat%20Applications%20with%20Node.js-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="Chat Application"/>
-  </a>  
-  <br/>
-
-  <a href="https://github.com/Manikanta1239/Portfolio">
-    <img src="https://img.shields.io/badge/🌐%20Creating%20a%20Personal%20Portfolio%20Website%20with%20React-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>  
-  <br/>
-
-  <a href="https://github.com/Manikanta1239/Web-Scraping">
-    <img src="https://img.shields.io/badge/🤖%20Automating%20Tasks%20with%20Python%3A%20Web%20Scraping-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Web Scraping"/>
-  </a>  
-
+  <a href="https://github.com/Manikanta1239/Web-Scraping"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=9C27B0&width=800&lines=🤖+Automating+Tasks+with+Python:+Web+Scraping" alt="Web Scraping"/></a>
 </div>
 
 ---
