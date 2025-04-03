@@ -61,7 +61,7 @@
 
 ### 🚀 **Languages**  
 <div align="left">   
-  <img src="https://skillicons.dev/icons?i=python,javascript" />  
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />  
 </div>  
 
 ### 💻 **Backend**  
