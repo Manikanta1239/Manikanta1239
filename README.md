@@ -45,17 +45,6 @@
 </div>
 
 ---
-## 📚 Blog Posts  
-
-<div align="center">
-
-  <a href="https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=FF5733&width=800&lines=🚀+Building+an+AI-Powered+Cold+Email+Generator" alt="AI-Powered Cold Email Generator"/></a>
-  <br/>
-
-  <a href="https://github.com/Manikanta1239/Web-Scraping"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=9C27B0&width=800&lines=🤖+Automating+Tasks+with+Python:+Web+Scraping" alt="Web Scraping"/></a>
-</div>
-
----
 
 ## 🛠️ Tech Stack  
 
